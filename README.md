@@ -1,1 +1,3 @@
-# Youtube Channel Repository
+# Pytorch Science 
+
+ref : https://github.com/lukepolson/youtube_channel
